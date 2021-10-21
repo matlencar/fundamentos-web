@@ -1,5 +1,9 @@
 /* Estilos da pagina index.html */
 
+body {
+    background-color: rgb(175, 180, 185);
+}
+
 .center {
     text-align: center;
 }
@@ -48,8 +52,8 @@
     margin-bottom: 50px;
 }
 
-
-
-
-
 /* |Estilo da pagina contato.html */
+
+.ml-50 {
+    margin-left: 50px;
+ }
